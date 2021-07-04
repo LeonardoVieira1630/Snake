@@ -1,0 +1,4 @@
+Coisas para melhorar no projeto:
+
+1-Colocar tela inicial do jogo.
+2-Colocar score no jogo.
